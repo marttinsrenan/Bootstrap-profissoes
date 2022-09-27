@@ -31,15 +31,16 @@
     letter-spacing: 0.6px;
     font-size: 20px;
     padding: 30px;
-    margin-left: 500px;
-    margin-top: -70px;
+    margin-left: 40px;
+    margin-top: 20px;
     color:rgba(255, 255, 255, 0.539);
     font-family:'Arial, Helvetica, sans-serif';
 }
 
 #perfil2{
     width: 800px;
-
+    margin-left: 380px;
+    margin-top: -10px;
     letter-spacing: 0.6px;
     font-size: 20px;
     padding: 30px;
@@ -52,9 +53,9 @@
     width: 300px;
     height: 200px;
     border-radius: 12px;
-    margin-left: -480px;
+    margin-left: 780px;
     border-radius: 30px;
-    margin-top: 50px;
+    margin-top: -175px;
 }
 
 #tamsob2{
@@ -64,8 +65,8 @@
     border-radius: 12px;
     margin-left: 900px;
     border-radius: 30px;
-    margin-top: -220px;
-    margin-left: 850px;
+    margin-top: -240px;
+    margin-left: -350px;
 }
 
 
@@ -530,6 +531,15 @@
     
 }
 
+#img-mercado2{
+    width: 350px;
+    height: 240px;
+    margin-top: -30px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+}
+
 
 /* ÁREAS DE TRABALHO */
 
@@ -787,12 +797,21 @@
     height: 300px;
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
-    margin-left: 280px;
+    margin-left: 0px;
     margin-top: 20px;
 }
 
+#img-graduacao2{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-left: 700px;
+    margin-top: -280px;
+}
+
 #graduacao{
-    margin-left: 300px;
+    margin-left: 110px;
     color:rgba(255, 255, 255, 0.539);
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 25px;
@@ -809,10 +828,20 @@
     letter-spacing: 0.6px;
 }
 
+#g-card{
+    border-radius: 20px;
+    width: 640px;
+    margin-left: 500px;
+    margin-top: -270px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
 #g-card2{
     border-radius: 20px;
     width: 640px;
-    margin-left: 185px;
+    margin-top: 80px;
+    margin-left: 0px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
 
 }
@@ -884,6 +913,227 @@
 /* FOOTER */
 
 #footer{
-    width: 2000px;
+    
     margin-top: 180px;
+}
+
+
+/* RESPONSIVO FUNDO */
+
+@media(max-width: 1000px){
+    #cor-fundo{
+        width: 1000px;
+    }
+}
+
+/* RESPONSIVO CARROSSEL */
+
+@media(max-width: 1000px){
+    #demo{
+        margin-top: 90px;
+    }
+
+    /* RESPONSIVO PERFIL */
+
+    #tema-perfil{
+        font-size: 30px;
+    }
+
+    #perfil1{
+        margin-top: 250px;
+    }
+
+    #tamsob{
+        margin-left: 0px;
+        margin-top: -600px;
+    }
+
+    #perfil2{
+        margin-left: 35px;
+        margin-top: 200px;
+    }
+
+    #tamsob2{
+        margin-left: 5px;
+        margin-top: -650px;
+    }
+
+    /* RESPONSIVO APRENDER */
+
+    #txt-easy{
+        font-size: 20px;
+    }
+
+    #cards-aprende{
+        margin-left: 30px;
+    }
+
+    #cards-aprende2{
+        margin-left: 450px;
+    }
+
+    #cards-aprende3{
+        margin-left: 240px;
+        margin-top: 20px;
+    }
+
+
+    /* RESPONSIVO GRADE */
+
+    #grade-easy{
+        margin-top: 30px;
+    }
+
+    #title-grade{
+        margin-top: 80px;
+        
+    }
+
+    /* RESPONSIVO NOTA DE CORTE */
+
+    #tema-nota{
+        font-size: 30px;
+    }
+
+    #img-nota{
+        margin-left: 15px;
+    }
+
+    /* RESPONSIVO MERCADO DE TRABALHO*/
+
+
+    #mercado{
+        font-size: 30px;
+    }
+
+    #img-mercado{
+        margin-top: 10px;
+        margin-left: 75px;
+    }
+
+    #img-mercado2{
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+
+
+    /* RESPONSIVO ÁREAS DE TRABALHO*/
+
+    #title-area{
+        font-size: 30px;
+        margin-left: 50px;
+    }
+
+    #cards{
+        margin-left: 30px;
+    }
+
+    #cards2{
+        margin-left: 450px;
+    }
+
+    #cards3{
+        margin-left: 240px;
+        margin-top: 20px;
+    }
+
+    /* RESPONSIVO UNIVERSIDADES*/
+
+    #title-uni{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    #unicamp{
+        margin-top: 50px;
+    }
+
+    #usp{
+        margin-top: -463px;
+    }
+
+    #usf{
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+
+    #anhanguera{
+        margin-left: 320px;
+        margin-top: -463px;
+    }
+
+    #position-uni{
+        margin-left: 180px;
+    }
+
+    /* RESPONSIVO CURSOS*/
+
+    #title-c{
+        font-size: 30px;
+    }
+
+    /* RESPONSIVO GRADUAÇÃO*/
+
+    
+    #title-g{
+        font-size: 30px;
+    }
+
+    #img-graduacao{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: 30px;
+    }
+
+    #g-card{
+        margin-left: 130px;
+        margin-top: 30px;
+    }
+
+    #img-graduacao2{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: -830px;
+    }
+
+    #g-card2{
+        margin-left: 130px;
+        margin-top: 200px;
+    }
+
+
+    /* RESPONSIVO BACHARELADO*/
+
+    #title-b{
+        font-size: 30px;
+    }
+
+    #b-card{
+        margin-left: 130px;
+        margin-top: 30px;
+    }
+
+    #img-b{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: 30px;
+    }
+
+    /* RESPONSIVO VIDEO*/
+
+    #title-video{
+        font-size: 30px;
+    }
+
+    #video{
+        margin-left: 130px;
+        width: 700px;
+        height: 500px;
+        margin-top: 40px;
+    }
+
+
 }
