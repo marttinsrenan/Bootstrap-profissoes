@@ -1,10 +1,11 @@
-#cor-fundo{
-    background-color: #33326F;
-}
 
 #tamimg{
     width: 1310px;
     height: 670px;
+}
+
+#title{
+    font-size: 30px;
 }
 
 /* PERFIL */
@@ -16,7 +17,7 @@
     font-size: 50px;
     text-align: left;
     margin-left: 70px;
-    margin-top: 40px;
+
     letter-spacing: 0.6px;
     
 }
@@ -69,8 +70,128 @@
     margin-left: -350px;
 }
 
+/* PERFIL DO PROFISSIONAL */
+
+#color-profissional{
+    background-color: #445175;
+    margin-top: 0px;
+   
+}
+
+#perfil-profissional{
+    font-weight: bold;
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 30px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+
+
+#pt1{
+   
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 2px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#tecnologia{
+
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    columns: 2;
+}
+
+#pt2{
+   
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 2px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#dinamico{
+
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    columns: 2;
+}
+
+#pt3{
+   
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 640px;
+    margin-top: -315px;
+    letter-spacing: 0.6px;
+    margin-top: -420px;
+}
+
+#matematica{
+
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+
+}
+
+#pt4{
+   
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 640px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#equipe{
+
+    color:rgba(255, 255, 255, 0.539);
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+
+
+}
 
 /* APRENDER */
+
+
+#color-aprende{
+    background-color: #4b2471;
+  
+}   
 
 #tema-aprender{
     font-weight: bold;
@@ -79,13 +200,10 @@
     font-size: 25px;
     text-align: left;
     margin-left: 70px;
-    margin-top: 50px;
+    margin-top: 100px;
     
 }
 
-#color-aprende{
-    background-color: #424171;
-}
 
 #aprende-easy{
     font-weight: bold;
@@ -106,7 +224,7 @@
 
 
 #cards-aprende{
-    background-color: #13192F;
+   
     margin-left: 0px;
     width: 350px;
     height: 500px;
@@ -114,7 +232,7 @@
 }
 
 #cards-aprende2{
-    background-color: #13192F;
+   
     margin-left: 375px;
     margin-top: -524px;
     width: 350px;
@@ -123,7 +241,7 @@
 }
 
 #cards-aprende3{
-    background-color: #13192F;
+   
     margin-left: 750px;
     margin-top: -524px;
     width: 350px;
@@ -161,7 +279,7 @@
 #cards-text{
     letter-spacing: 0.6px;
     margin-top: -30px;
-    font-size: 15px;
+    font-size: 20px;
     padding: 30px;
     margin-left: 0px;
     color:rgba(255, 255, 255, 0.539);
@@ -171,7 +289,7 @@
 #cards-text2{
     letter-spacing: 0.6px;
     margin-top: -30px;
-    font-size: 15px;
+    font-size: 20px;
     padding: 30px;
     margin-left: 0px;
     color:rgba(255, 255, 255, 0.539);
@@ -181,7 +299,7 @@
 #cards-text3{
     letter-spacing: 0.6px;
     margin-top: -30px;
-    font-size: 15px;
+    font-size: 20px;
     padding: 30px;
     margin-left: 0px;
     color:rgba(255, 255, 255, 0.539);
@@ -203,7 +321,7 @@
     color:rgba(255, 255, 255, 0.539);
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 25px;
-    margin-left: 40px;
+
 }
 
 #text-easy{
@@ -211,7 +329,7 @@
     color:rgba(255, 255, 255, 0.539);
     font-family:'Arial, Helvetica, sans-serif';
     font-size: 20px;
-    margin-left: 60px;
+
 }
 
 #title-grade{
@@ -247,23 +365,31 @@
     font-size: 17px;
 }
 
-#demo1{
-    color:rgba(255, 255, 255, 0.539);
-    font-family:'Arial, Helvetica, sans-serif';
-    font-size: 17px;
+#cards-grade1{
+   background-color: #39386B;
+    margin-left: 0px;
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
 }
 
-#demo2{
-    color:rgba(255, 255, 255, 0.539);
-    font-family:'Arial, Helvetica, sans-serif';
-    font-size: 17px;
-}
+#cards-grade2{
+    background-color: #39386B;
+     margin-left: 0px;
+     width: 350px;
+     height: 400px;
+     border-radius: 20px;
+ }
 
-#demo3{
-    color:rgba(255, 255, 255, 0.539);
-    font-family:'Arial, Helvetica, sans-serif';
-    font-size: 17px;
-}
+ #cards-grade3{
+border-top: #4F2020;
+border-bottom: #4F2020;
+
+     margin-left: 0px;
+     width: 350px;
+     height: 400px;
+     border-radius: 20px;
+ }
 
 
 /* COMO INGRESSAR */
@@ -467,7 +593,7 @@
 /* NOTA DE CORTE */
 
 #color-nota{
-    background-color: #514C86;
+    background-color: #4b2471;
     margin-top: -40px;
 }
 
@@ -524,7 +650,7 @@
 
 #img-mercado{
     width: 350px;
-    height: 240px;
+    height: 220px;
     margin-top: -30px;
     margin-left: 150px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
@@ -533,7 +659,7 @@
 
 #img-mercado2{
     width: 350px;
-    height: 240px;
+    height: 220px;
     margin-top: -30px;
     margin-left: 150px;
     box-shadow: 5px 5px 5px rgb(0, 0, 0);
@@ -700,7 +826,7 @@
 /* UNIVERSIDADES */
 
 #color-universidade{
-    background-color: #2D3350;
+    background-color: #3b2442;
 }
 
 #title-uni{
@@ -771,6 +897,11 @@
 /* CURSOS */
 /* GRADUAÇÃO */
 
+
+#color-cursos{
+    background-color: #2b0b53;
+}
+
 #title-c{
     font-weight: bold;
     color:rgba(255, 255, 255, 0.539);
@@ -778,7 +909,7 @@
     font-size: 50px;
     text-align: left;
     margin-left: 0px;
-    margin-top: 40px;
+
     letter-spacing: 0.6px;
 }
 
@@ -861,6 +992,7 @@
     margin-left: 80px;
     margin-top: 40px;
     letter-spacing: 0.6px;
+    font-weight: bold;
 }
 
 #img-b{
@@ -904,6 +1036,7 @@
     margin-left: 80px;
     margin-top: 40px;
     letter-spacing: 0.6px;
+    font-weight: bold;
 }
 
 #video{
@@ -928,7 +1061,7 @@
 
 /* RESPONSIVO CARROSSEL */
 
-@media(max-width: 999px){
+@media(max-width: 1000px){
     #demo{
         margin-top: 90px;
     }
