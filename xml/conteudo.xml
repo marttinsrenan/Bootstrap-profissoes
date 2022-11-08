@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="1">
+        <titulo>Título da notícia 1</titulo>
+        <corpo>
+        <div id="perfil1">
+      <p>O curso de Engenharia Mecânica forma profissionais capazes de executar 
+        procedimentos que envolvam projeto, fabricação, operação e manutenção de máquinas, 
+        equipamentos e sistemas mecânicos. No mercado de trabalho, o engenheiro mecânico 
+        atua em diversas indústrias, entre elas a de automóveis, aeronáutica e naval.</p></div>
+        </corpo>
+        <imagem_1>sobre1.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="2">
+        <titulo>Título da notícia 2</titulo>
+        <corpo>
+        <div id="perfil2">
+        <p>O graduado na área também está em empresas do setor de energia, de 
+        consultoria de projetos industriais, em universidades e centros de pesquisas. 
+        Esse profissional precisa dominar ao menos uma língua estrangeira, saber 
+        trabalhar em equipe, ter raciocínio rápido e conhecimentos sólidos nas Ciências Exatas. 
+        Os tipos de formação para o curso de Engenharia Mecânica são: bacharelado e pós-graduação.</p></div>
+        </corpo>
+        <imagem_1>sobre2.png</imagem_1>
+    </postagem>
+</conteudo>
