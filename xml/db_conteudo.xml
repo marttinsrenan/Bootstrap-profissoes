@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem codigo="1">
+        <titulo>Afinal, o alumínio enferruja ou não?</titulo>
+        <corpo>Alumínio enferruja?
+
+         Apesar de ser o metal mais abundante na Terra, constituindo mais de 8% da massa terrestre, o alumínio só foi descoberto na década de 1820, pelo físico dinamarquês Hans Christian Orsted. Isso é parcialmente explicado porque o alumínio puro não existe na natureza, uma vez que ele se liga facilmente a outros elementos como o oxigênio.
+         Por isso não deixa de ser surpreendente que a pergunta que dá título a este artigo seja tão repetida - e frequentemente mal respondida.
+         Será que o alumínio não enferruja mesmo?
+         Acontece que isso é um equívoco.
+         Veja o caso do ferro, de onde vem o termo "enferrujar": Quando ele é exposto à umidade e ao oxigênio, o ferro se converte em uma substância marrom-avermelhada quebradiça, que chamamos de ferrugem. Como o aço é uma liga, sendo o ferro seu principal ingrediente, o aço também enferruja.
+         Embora outros metais sofram corrosão quando expostos ao oxigênio ou à água, na verdade eles não enferrujam. Pense na fina camada verde que se forma nas cúpulas dos edifícios feitas de cobre, latão ou bronze: Os metais até mudam de cor, mas nunca se esfarelarão como o ferro.
+         O alumínio fica no meio do caminho entre esses dois extremos.
+         "O alumínio reage muito rapidamente ao oxigênio, criando uma fina camada de óxido de alumínio (Al2O3) em sua superfície externa, que impede que mais oxigênio chegue ao metal, protegendo-o," explica Casper van der Eijk, da Fundação para Pesquisa Científica e Industrial da Noruega.
+         Isso, no entanto, não torna o alumínio invencível.
+         O contato com a água salgada, por exemplo, pode resultar em pequenos orifícios que vencem a camada protetora de óxido. O alumínio também será corroído se for exposto a ambientes alcalinos, embora seja mais resistente a ácidos, podendo suportar refrigerantes com pH menor do que três.
+         "Portanto, o alumínio não é adequado para ser combinado com concreto úmido. Quando o cimento Portland é hidratado com água para fazer concreto, ele produz hidróxido de cálcio muito alcalino, que pode causar rachaduras no alumínio," observa Van der Eijk.</corpo>
+        <imagem_1>alu.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="2">
+        <titulo>Liga monocristalina de cobre apresenta elasticidade inédita</titulo>
+        <corpo>Liga monocristalina
+
+         Os monocristais, ou cristais únicos, são essenciais para as pesquisas de materiais porque sua pureza e homogeneidade facilitam estudar fenômenos como supercondutividade, magnetismo, semicondutividade e outros, principalmente no campo das tecnologias quânticas.
+         Monocristais são materiais nos quais a rede cristalina formada por seus átomos é contínua e ininterrupta, com os átomos ocupando posições regulares, que se repetem indefinidamente no espaço - em comparação, os policristais são compostos por muitos cristalitos de tamanho e orientação variados, com as "fronteiras" entre eles representando descontinuidades, que tipicamente resultam em perdas de propriedades.
+         Com a melhoria das técnicas de sintetização dos cristais únicos, esses materiais vêm chamando a atenção para aplicações em escala macro, já sendo possível hoje sintetizar monocristais de vários centímetros.
+         Agora, Sheng Xu e colegas da Universidade de Tohoku, no Japão, conseguiram sintetizar monocristais de uma liga de cobre com a maior tensão elástica de tração já alcançada até o momento para um material à temperatura ambiente.
+         A liga à base de cobre apresentou uma tensão elástica de tração de >4,3% à temperatura ambiente - para comparação, o aço comum tem uma tensão elástica de 0,2%. </corpo>
+        <imagem_1>liga.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="3">
+        <titulo>Motocicletas com seis faróis poderão salvar vida dos motociclistas</titulo>
+        <corpo>Iluminação ideal para motos
+
+         Os pilotos de motocicleta têm 27 vezes mais chances de morrer em um acidente do que os motoristas de carros de passageiros. Andar de moto à noite é especialmente perigoso, sendo responsável por quase metade de todos os acidentes fatais, mesmo com muito menos motociclistas trafegando.
+         Para tentar diminuir esses riscos, Bradley Weaver e Patricia DeLucia, da Universidade Rice, nos EUA, projetaram um novo sistema de faróis e lanternas para ajudar a melhorar a capacidade de outros motoristas de ver as motos no trânsito.
+         A proposta é substituir o farol único por um sistema de seis luzes na parte frontal da moto, criteriosamente distribuídas de cima para baixo.
+         "Como as motocicletas são menores do que muitos outros veículos, é mais difícil para outros motoristas julgarem com precisão seu movimento na estrada," disse Weaver. "Isso é particularmente difícil à noite quando uma motocicleta tem apenas um único farol, porque outros motoristas não podem ver a altura ou largura total da motocicleta."
+         O estudo revelou que uma iluminação melhorada pode fazer com que outros motoristas consigam ver as motocicletas até 0,8 segundo mais cedo.
+        "Pouco menos de um segundo pode não parecer muito, mas reduzir o tempo de resposta de um motorista a uma possível colisão pode fazer a diferença entre a vida e a morte," disse DeLucia.</corpo>
+        <imagem_1>moto.jpg</imagem_1>
+    </postagem>
+</conteudo>
