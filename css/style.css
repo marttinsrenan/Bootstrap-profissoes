@@ -1,28 +1,1318 @@
+
+#tamimg{
+    width: 1310px;
+    height: 670px;
+}
+
+#title{
+    font-size: 30px;
+}
+
+/* PERFIL */
+
+#tema-perfil{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 70px;
+
+    letter-spacing: 0.6px;
+    
+}
+
+#color-perfil{
+    background-color: #3c3c3c;
+}
+
+#perfil1{
+    width: 800px;
+    margin-bottom: 10px;
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 40px;
+    margin-top: 20px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#perfil2{
+    width: 800px;
+    margin-left: 380px;
+    margin-top: -10px;
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    font-family:  'Helvetica';
+    color: #FFFF;
+}
+
+#tamsob{
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    border-radius: 12px;
+    margin-left: 780px;
+    border-radius: 30px;
+    margin-top: -175px;
+}
+
+#tamsob2{
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    width: 320px;
+    height: 200px;
+    border-radius: 12px;
+    margin-left: 900px;
+    border-radius: 30px;
+    margin-top: -240px;
+    margin-left: -350px;
+}
+
+/* PERFIL DO PROFISSIONAL */
+
+#color-profissional{
+    background-color: #515151;
+    margin-top: 0px;
+   
+}
+
+#perfil-profissional{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 30px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+
+
+#pt1{
+   
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 2px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#tecnologia{
+
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    columns: 2;
+}
+
+#pt2{
+   
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 2px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#dinamico{
+
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    columns: 2;
+}
+
+#pt3{
+   
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 640px;
+    margin-top: -315px;
+    letter-spacing: 0.6px;
+    margin-top: -420px;
+}
+
+#matematica{
+
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+
+}
+
+#pt4{
+   
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 640px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#equipe{
+
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+
+
+}
+
+/* APRENDER */
+
+
+#color-aprende{
+    background-color: #666666;
+  
+}   
+
+#tema-aprender{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 100px;
+    
+}
+
+
+#aprende-easy{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+#txt-easy{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+
+
+#cards-aprende{
+   
+    margin-left: 0px;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+#cards-aprende2{
+   
+    margin-left: 375px;
+    margin-top: -524px;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+#cards-aprende3{
+   
+    margin-left: 750px;
+    margin-top: -524px;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+}
+
+#img-aprende{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#img-aprende2{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#img-aprende3{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#cards-text{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#cards-text2{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#cards-text3{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+
+
+
+
+/* GRADE */
+
+#color-grade{
+    background-color: #8c8c8c;
+}
+
+#grade-easy{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+
+}
+
+#text-easy{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+
+}
+
+#title-grade{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+
+
+}
+
+#text-grade{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 17px;
+}
+
+#text-grade2{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 17px;
+}
+
+#text-grade3{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 17px;
+}
+
+#text-clique{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 17px;
+}
+
+#cards-grade1{
+   background-color: #8c8c8c;
+    margin-left: 0px;
+    width: 350px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+#cards-grade2{
+    background-color: #8c8c8c;
+     margin-left: 0px;
+     width: 350px;
+     height: 400px;
+     border-radius: 20px;
+ }
+
+ #cards-grade3{
+
+
+     margin-left: 0px;
+     width: 350px;
+     height: 400px;
+     border-radius: 20px;
+ }
+
+
+/* COMO INGRESSAR */
+
+#color-ingressar{
+    background-color: #8c8c8c;
+}
+
+#tema-ingressar{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#elipse{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#text-ing{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse2{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#text-ing2{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse3{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#text-ing3{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse4{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#text-ing4{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse5{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+#text-ing5{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse6{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 440px;
+    margin-top: -330px;
+}
+
+#text-ing6{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse7{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 440px;
+    margin-top: 20px;
+}
+
+#text-ing7{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse8{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 440px;
+    margin-top: 20px;
+}
+
+#text-ing8{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse9{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 440px;
+    margin-top: 20px;
+}
+
+#text-ing9{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+#elipse10{
+    width:  50px;
+    height: 50px;
+    background: #5C96CC;
+    position: relative;
+    border-radius: 60px;
+    margin-left: 440px;
+    margin-top: 20px;
+}
+
+#text-ing10{
+    font-size: 20px;
+    margin-left: 150%;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    white-space: nowrap;
+}
+
+
+/* NOTA DE CORTE */
+
+#color-nota{
+    background-color: #b5b5b5;
+    margin-top: -40px;
+}
+
+#tema-nota{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#img-nota{
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 40px;
+    border-radius: 100px;
+    
+}
+
+/* MERCADO DE TRABALHO */
+
+#color-mercado{
+    background-color: #6f6f6f;
+    margin-top: -40px;
+}
+
+#mercado{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 70px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#title-mercado{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+}
+
+#text-mercado{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 17px;
+}
+
+#img-mercado{
+    width: 350px;
+    height: 220px;
+    margin-top: -30px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+}
+
+#img-mercado2{
+    width: 350px;
+    height: 220px;
+    margin-top: -30px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    
+}
+
+
+/* ÁREAS DE TRABALHO */
+
+#color-areas{
+    background-color: #828282;
+    margin-top: -40px;
+}
+
+#cards{
+    background-color: #4F2020;
+    margin-left: 0px;
+    width: 350px;
+    height: 510px;
+    border-radius: 15px;
+}
+
+#cards2{
+    background-color: #4F2020;
+    margin-left: 375px;
+    margin-top: -533px;
+    width: 350px;
+    height: 510px;
+    border-radius: 15px;
+}
+
+#cards3{
+    background-color: #4F2020;
+    margin-left: 750px;
+    margin-top: -532px;
+    width: 350px;
+    height: 510px;
+    border-radius: 15px;
+}
+
+#img-area{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+
+#img-area2{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+
+#img-area3{
+    width: 300px;
+    height: 160px;
+    margin-left: 25px;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+
+
+#title-area{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#card-title{
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 40px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#cards-text{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#btnn{
+    letter-spacing: 0.6px;
+    margin-top: 0px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 30px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#card-title2{
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 70px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#cards-text2{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#btnn2{
+    letter-spacing: 0.6px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 30px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#card-title3{
+    letter-spacing: 0.6px;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: 50px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#cards-text3{
+    letter-spacing: 0.6px;
+    margin-top: -30px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+#btnn3{
+    letter-spacing: 0.6px;
+    margin-top: 0px;
+    font-size: 15px;
+    padding: 30px;
+    margin-left: 50px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+}
+
+/* UNIVERSIDADES */
+
+#color-universidade{
+    background-color: #5e5e5e;
+}
+
+#title-uni{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+
+#unicamp{
+    width: 280px;
+    height: 440px;
+    margin-left: 10px;
+}
+
+#img-unicamp{
+    width: 270px;
+    height: 200px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#usp{
+    width: 280px;
+    height: 440px;
+    margin-left: 320px;
+    margin-top: -384px;
+}
+
+#img-usp{
+    width: 270px;
+    height: 200px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#usf{
+    width: 280px;
+    height: 440px;
+    margin-left: 625px;
+    margin-top: -543px;
+}
+
+#img-usf{
+    width: 270px;
+    height: 200px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+#anhanguera{
+    width: 280px;
+    height: 440px;
+    margin-left: 930px;
+    margin-top: -384px;
+}
+
+#img-anhanguera{
+    width: 270px;
+    height: 200px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+
+
+/* CURSOS */
+/* GRADUAÇÃO */
+
+
+#color-cursos{
+    background-color: #515151;
+}
+
+#title-c{
+    font-weight: bold;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 0px;
+
+    letter-spacing: 0.6px;
+}
+
+#title-g{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+}
+
+#img-graduacao{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+#img-graduacao2{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-left: 700px;
+    margin-top: -280px;
+}
+
+#graduacao{
+    margin-left: 110px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 25px;
+    text-align: left;
+    letter-spacing: 0.6px;
+}
+
+#text-graduacao{
+    margin-left: 0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    letter-spacing: 0.6px;
+}
+
+#g-card{
+    border-radius: 20px;
+    width: 640px;
+    margin-left: 500px;
+    margin-top: -270px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+#g-card2{
+    border-radius: 20px;
+    width: 640px;
+    margin-top: 80px;
+    margin-left: 0px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+
+/* BACHARELADO */
+
+#color-bacharelado{
+    background-color: #3c3c3c;
+}
+
+#title-b{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    font-weight: bold;
+}
+
+#img-b{
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+    margin-left: 780px;
+    margin-top: -250px;
+}
+
+#b-card{
+    border-radius: 20px;
+    width: 640px;
+    margin-left: 25px;
+    margin-top: 100px;
+    box-shadow: 8px 8px 8px rgb(0, 0, 0);
+}
+
+#text-b{
+    margin-left: -0px;
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 20px;
+    text-align: left;
+    letter-spacing: 0.6px;
+}
+
+
+/* VIDEO */
+
+#color-video{
+    background-color: #666666;
+}
+
+#title-video{
+    color: #FFFF;
+    font-family:  'Helvetica';
+    font-size: 50px;
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 40px;
+    letter-spacing: 0.6px;
+    font-weight: bold;
+}
+
+#video{
+    margin-left: 180px;
+}
+
+
 /* NOTICIAS */
 
-#txtema{
-    background-color:aqua;
+.btn2{
+    font-weight: bold;
+    color: black;
 }
 
-#img{
-    margin-left: 80px;
+.card{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
 }
 
-
-#noticia {
-    color: white;
+.embed{
     position: relative;
+    padding-bottom:56.25%;
+    align-items: center;
 }
-#btn-mais{
+.embed iframe {
+    position: absolute;
     width: 100%;
+    height: 100%;
+    border: none;
 }
-* {
-    padding: 0;
-    margin: 0;
+.all3{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 50px;
+}
+.titulo2{
+    background-color: #716a6a;
+    height:50px;
+    display: flex;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#noticia{
+    background-color: #555555;
+}
+.card-title{
+    font-weight: bold;
 }
 
-#header {
-    position: absolute;
-    z-index: 10;
-    width: 100%;
+
+
+/* FOOTER */
+
+#footer{
+    
+    margin-top: 180px;
+}
+
+
+/* RESPONSIVO FUNDO */
+
+@media(max-width: 1000px){
+    #cor-fundo{
+        width: 1000px;
+    }
+}
+
+/* RESPONSIVO CARROSSEL */
+
+@media(max-width: 1000px){
+    #demo{
+        margin-top: 90px;
+    }
+
+    /* RESPONSIVO PERFIL */
+
+    #tema-perfil{
+        font-size: 30px;
+    }
+
+    #perfil1{
+        margin-top: 250px;
+    }
+
+    #tamsob{
+        margin-left: 0px;
+        margin-top: -600px;
+    }
+
+    #perfil2{
+        margin-left: 35px;
+        margin-top: 200px;
+    }
+
+    #tamsob2{
+        margin-left: 5px;
+        margin-top: -650px;
+    }
+
+    /* RESPONSIVO APRENDER */
+
+    #txt-easy{
+        font-size: 20px;
+    }
+
+    #cards-aprende{
+        margin-left: 30px;
+    }
+
+    #cards-aprende2{
+        margin-left: 450px;
+    }
+
+    #cards-aprende3{
+        margin-left: 240px;
+        margin-top: 20px;
+    }
+
+
+    /* RESPONSIVO GRADE */
+
+    #grade-easy{
+        margin-top: 30px;
+    }
+
+    #title-grade{
+        margin-top: 80px;
+        
+    }
+
+    /* RESPONSIVO NOTA DE CORTE */
+
+    #tema-nota{
+        font-size: 30px;
+    }
+
+    #img-nota{
+        margin-left: 15px;
+    }
+
+    /* RESPONSIVO MERCADO DE TRABALHO*/
+
+
+    #mercado{
+        font-size: 30px;
+    }
+
+    #img-mercado{
+        margin-top: 10px;
+        margin-left: 75px;
+    }
+
+    #img-mercado2{
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+
+
+    /* RESPONSIVO ÁREAS DE TRABALHO*/
+
+    #title-area{
+        font-size: 30px;
+        margin-left: 50px;
+    }
+
+    #cards{
+        margin-left: 30px;
+    }
+
+    #cards2{
+        margin-left: 450px;
+    }
+
+    #cards3{
+        margin-left: 240px;
+        margin-top: 20px;
+    }
+
+    /* RESPONSIVO UNIVERSIDADES*/
+
+    #title-uni{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+
+    #unicamp{
+        margin-top: 50px;
+    }
+
+    #usp{
+        margin-top: -463px;
+    }
+
+    #usf{
+        margin-left: 10px;
+        margin-top: 0px;
+    }
+
+    #anhanguera{
+        margin-left: 320px;
+        margin-top: -463px;
+    }
+
+    #position-uni{
+        margin-left: 180px;
+    }
+
+    /* RESPONSIVO CURSOS*/
+
+    #title-c{
+        font-size: 30px;
+    }
+
+    /* RESPONSIVO GRADUAÇÃO*/
+
+    
+    #title-g{
+        font-size: 30px;
+    }
+
+    #img-graduacao{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: 30px;
+    }
+
+    #g-card{
+        margin-left: 130px;
+        margin-top: 30px;
+    }
+
+    #img-graduacao2{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: -830px;
+    }
+
+    #g-card2{
+        margin-left: 130px;
+        margin-top: 200px;
+    }
+
+
+    /* RESPONSIVO BACHARELADO*/
+
+    #title-b{
+        font-size: 30px;
+    }
+
+    #b-card{
+        margin-left: 130px;
+        margin-top: 30px;
+    }
+
+    #img-b{
+        width: 300px;
+        height: 200px;
+        margin-left: 300px;
+        margin-top: 30px;
+    }
+
+    /* RESPONSIVO VIDEO*/
+
+    #title-video{
+        font-size: 30px;
+    }
+
+    #video{
+        margin-left: 130px;
+        width: 700px;
+        height: 500px;
+        margin-top: 40px;
+    }
+
+
 }
